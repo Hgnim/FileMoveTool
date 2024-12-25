@@ -183,7 +183,7 @@ fmvt *.txt ~/Test-s ~/Test-t
 @$"文件移动工具(FileMoveTool)
 版本: V{version}
 Github: https://github.com/Hgnim/FileMoveTool
-Copyright (C) 2023-2024 Hgnim, All rights reserved."               
+Copyright (C) 2024 Hgnim, All rights reserved."               
 				);
 		}
 	}
